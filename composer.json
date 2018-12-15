@@ -33,5 +33,10 @@
         "phpstan/phpstan": "^0.10.5",
         "phpstan/phpstan-phpunit": "^0.10.0",
         "phpstan/phpstan-strict-rules": "^0.10.1"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
     }
 }
