@@ -1,5 +1,5 @@
 {
-    "name": "dbannik/artplanetFirewall",
+    "name": "dbannik/artplanet-firewall",
     "description": "library ddos protection for atplanet providers",
     "type": "library",
     "license": "proprietary",
@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "ext-json": "*",
         "php": "^7.2",
+        "ext-json": "*",
         "guzzlehttp/guzzle": "^6.3",
         "webmozart/assert": "^1.3"
     },
